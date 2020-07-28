@@ -1,6 +1,6 @@
 # Motorboat_Scrapy_Script
 
-Scrapy script used to scrape motorboat data from boat24.com.
+Scrapy script used for scraping motorboat data from boat24.com.
 
 The following data is collected for each listing:
 
